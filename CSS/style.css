@@ -1,0 +1,25 @@
+header{
+    background-color: black;
+    color: blue;
+}
+
+.colorNavb{
+    color: black !important;
+}
+
+.nosotros{
+    text-align: justify;
+    line-height: 2em;
+    background-color: black;
+    color: blue;
+}
+
+.footerHome{
+    background-color: blue;
+}
+
+.Logo{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
